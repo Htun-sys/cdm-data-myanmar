@@ -1,0 +1,39 @@
+body {
+	box-sizing: border-box;
+	font-size: 14px;
+	font-weight: 600;
+}
+
+nav {
+	background-color: #e3f2fd;
+}
+
+#category {
+	margin: 0.5rem;
+	padding-left: 10%;
+}
+
+#category select {
+	min-width: 30%;
+	min-height: 30px;
+	padding-bottom: 2px;
+	border: 2px solid #4db9e8;
+	border-radius: 5px;
+}
+
+#category button {
+	padding: 2px 5px 2px 5px;
+
+}
+div.container {
+	margin-top: 2%;
+}
+
+#table_id_length {
+	display: none;
+}
+
+th {
+	font-size: 16px;
+}
+
